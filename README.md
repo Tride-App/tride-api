@@ -18,7 +18,7 @@ That separation is central to the architecture of this repository.
 This repo is a lean [ArkStack-based](https://arkstack.toneflix.net/) API foundation intended for:
 
 - health and service endpoints,
-- future rider and driver domain endpoints,
+- rider and driver domain endpoints,
 - search and discovery APIs,
 - off-chain booking orchestration,
 - integration with the Tride frontend and Soroban contract layer.
