@@ -15,7 +15,7 @@ That separation is central to the architecture of this repository.
 
 ## What This Repo Covers
 
-This repo is a lean ArkStack-based API foundation intended for:
+This repo is a lean [ArkStack-based](https://arkstack.toneflix.net/) API foundation intended for:
 
 - health and service endpoints,
 - future rider and driver domain endpoints,
@@ -27,7 +27,7 @@ This repo is a lean ArkStack-based API foundation intended for:
 
 The API currently ships as a minimal baseline with:
 
-- ArkStack Express runtime,
+- [ArkStack Express](https://arkstack.toneflix.net/guide/express-runtime) runtime,
 - lint and unit test setup,
 - dedicated API metadata and health endpoints,
 - no database or Prisma dependency yet.
