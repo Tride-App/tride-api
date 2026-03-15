@@ -1,5 +1,9 @@
 # Tride API
 
+> Learn More: https://tride-app.github.io/project
+
+![Discord](https://img.shields.io/discord/1482790798016643103?style=for-the-badge&logo=discord&logoColor=white)
+
 Tride is an intercity carpooling platform designed around transparent ride payments, seat inventory, and deterministic settlement. This repository contains the backend API layer that supports the product outside the blockchain contract surface.
 
 The API is where Tride’s off-chain coordination logic will live: profiles, trip search, messaging hooks, verification workflows, and any application state that should not be stored on-chain.
